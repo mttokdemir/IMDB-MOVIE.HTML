@@ -8,7 +8,7 @@ When you click the films name or image it directs you to the pages which include
 ![image](https://github.com/user-attachments/assets/6d739237-c213-42f9-8104-76cf74c2ecfb)
 ![image](https://github.com/user-attachments/assets/832835ff-201a-472b-97bb-eec0e58018dc)
 ![image](https://github.com/user-attachments/assets/f56a8b86-cc03-454d-bdb0-1c9b63339fd4)
-If you press "Back to home" redirect you to home page, and for the "Go to..." rediret to you next movie.
+If you press "Back to home" redirect you to home page, and for the "Go to..." redirect to you next movie.
 ![image](https://github.com/user-attachments/assets/11cb88f7-f2e2-44d3-920f-964b197e5a48)
 
 
